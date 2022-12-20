@@ -1,0 +1,20 @@
+# How to start creating
+
+1. add a .txt for each list you want to add, so if you want to add 3 lists of `drugs`, `scam` and `porn`, create three files with these names:
+
+```bash
+drugs.txt
+scam.txt
+porn.txt
+```
+
+`Note: Don't put especial characters, it'll break the script to download the file.` \
+
+2. inside of each .txt file, you need to put the url to download the list file (put just one line with the URL) \
+
+3. modify the [readme](./readme.md) file with your plugin data \
+
+4. delete this file \
+
+5. to finish, just upload this repo to your github account :)
+
