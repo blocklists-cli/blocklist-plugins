@@ -1,6 +1,6 @@
-# PLUGIN_NAME for [blocklists](https://github.com/Dpbm/blocklists)
+# [PLUGIN_NAME](link for the official repo) for [blocklists](https://github.com/Dpbm/blocklists)
 
-download PLUGIN_NAME lists with [blocklists](https://github.com/Dpbm/blocklists)
+download [PLUGIN_NAME](link for the official repo) lists with [blocklists](https://github.com/Dpbm/blocklists)
 
 ## LISTS
 
